@@ -1,0 +1,46 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #25283D;
+}
+.content {
+    width: 100%;
+}
+.container {
+    width: 80%;
+    background-color: white;
+    margin:auto;
+    margin-top: 75px;
+}
+.header {
+    background-color: #07BEB8;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+.form{
+    padding: 5px 20px 5px 20px;
+    display:flex;
+    flex-direction:column;
+}
+.search{
+    padding: 20px;
+}
+.error{
+    padding-left:30px;
+    padding-right:30px;
+    color:red;
+}
+.formtable {
+    padding: 5px 5px 5px 5px;
+}
+.tablecontainer{
+    width:100%;
+}
+.table{
+    margin:auto;
+    margin-top: 10px;
+}
